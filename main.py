@@ -19,7 +19,7 @@ DEFAULT_SEARCH_MARKUP = [
                      InlineKeyboardButton("Go Inline", switch_inline_query="")],
                     [InlineKeyboardButton("Search Anime", switch_inline_query_current_chat="!a "),
                      InlineKeyboardButton("GO Inline", switch_inline_query_current_chat="!a ")],
-                    [InlineKeyboardButton("Developer", url="https://t.me/VinuthPMBot")]
+                    [InlineKeyboardButton("Join Updates Channel", url="https://t.me/Vinuth_BOTs")]
                 ]
 
 
